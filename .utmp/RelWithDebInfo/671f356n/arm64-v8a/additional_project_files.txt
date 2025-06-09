@@ -1,0 +1,1 @@
+C:\Users\Tecsup\Documents\GitHub\Lab13-SeriousGame\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\UnitySwappyWrapper.h

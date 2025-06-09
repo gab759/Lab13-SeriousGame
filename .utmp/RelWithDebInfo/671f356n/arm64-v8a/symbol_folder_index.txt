@@ -1,0 +1,1 @@
+C:\Users\Tecsup\Documents\GitHub\Lab13-SeriousGame\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\671f356n\obj\arm64-v8a
